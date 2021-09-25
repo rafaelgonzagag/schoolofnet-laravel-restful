@@ -1,0 +1,16 @@
+Encryption keys generated successfully.
+Personal access client created successfully.
+Client ID: 1
+Client Secret: nPISU6YFEgF5Qfxba7UEYcZS4ZGzBCkHoqNzm4rX
+Password grant client created successfully.
+Client ID: 2
+Client Secret: 1CynUqGLfbJaONZtRnFtIJwHAkAU4wkRKevjNc76
+
+Client ID: 3
+Client Secret: cwKGo7d175biMSRoFVDvfkae9fI7depAogz49TJc
+
+http://localhost:8000/oauth/authorize?
+    cliente_id=4&
+    response_type=token&
+    scope=&
+    redirect_uri=http://meusite.com/pagina-de-login
